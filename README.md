@@ -10,4 +10,4 @@ This is my 1st portfolio in learning HTML and the page is about my favorite dish
 - How to make a **List** that auto ordering
 - How to **move Page** and **Get back** to the 1st Page
 
-You can see it live on [annisaps313.github.io/odin-recipes](annisaps313.github.io/odin-recipes)
+You can see it live on [annisaps313.github.io/odin-recipes](https://annisaps313.github.io/odin-recipes/)

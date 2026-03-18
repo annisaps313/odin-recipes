@@ -1,3 +1,11 @@
+html{
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
 main{
     border:  2px solid;
     padding: 1em;

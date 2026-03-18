@@ -25,3 +25,8 @@ main{
     scrollbar-width: thin;
     border-radius: 20px;
 }
+
+a{
+    font-weight: bold;
+    color: purple;
+}

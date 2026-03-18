@@ -46,3 +46,8 @@ img{
     object-position: center;
     border-radius: 10px;
 }
+.intro img{
+    border-radius: 100%;
+    width: 180px;
+    height: 180px;
+}
